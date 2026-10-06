@@ -1,3 +1,4 @@
+# Automated Teller Machine Banking Simulator
 correct_pin =7788
 account_balance =5000
 a = int(input("enter your pin:"))
