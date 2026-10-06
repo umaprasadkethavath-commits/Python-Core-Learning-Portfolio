@@ -1,3 +1,4 @@
+#Secure Strict Password Sanitation Masker
 password=input("enter your password:")
 masked_password="*"*len(password)
 if len(password)>=8 and len(password)<=12:
