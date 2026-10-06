@@ -1,3 +1,4 @@
+#Multi-Tier Corporate Security Clearance Gate
 has_badge =input("do you have an access badge? (yes/no):")
 if has_badge == "yes":
     print("door 1 opened! scaning your badge code...")
