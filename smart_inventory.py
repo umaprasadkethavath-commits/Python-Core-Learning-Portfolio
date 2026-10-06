@@ -1,3 +1,4 @@
+#E-Commerce Inventory Lookup & Coupon Engine
 unique_visitors={"salaar10","rebal10","bahubali10","darling10"}
 user_id=input("enter your user id:")
 cleaned_user_id=user_id.lower()
