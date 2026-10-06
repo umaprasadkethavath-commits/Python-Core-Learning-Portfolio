@@ -1,3 +1,4 @@
+#Password Strength Evaluator
 password_database=[]
 password=input("Enter your password:")
 a=password_database.append(password)
