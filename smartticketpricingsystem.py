@@ -1,3 +1,4 @@
+# Dynamic Event Ticket Dynamic Pricing Matrix
 name=input("Enter your name :")
 age=int(input("Enter your age: "))
 movie_name=input("Enter movie name your intreseted to watch:")
