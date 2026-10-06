@@ -1,3 +1,4 @@
+#Smart Retail Shopping Cart Array Handler
 items_in_stock=("apple","banana","milk","bread","goa","kiwi","orange")
 cart=[]
 items_to_buy=input("Enter your item:")
